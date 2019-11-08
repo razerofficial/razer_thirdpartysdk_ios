@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint mobilekit.podspec' to ensure this is a
+# Be sure to run `pod lib lint RazerAUTHSDK.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -19,7 +19,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/razerofficial/razer_thirdpartysdk_ios'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'umang' => 'umang.davessar@razer.com' }
-  s.source           = { :git => "https://github.com/razerofficial/razer_thirdpartysdk_ios"}
+  s.source           = { :git => "https://github.com/razerofficial/razer_thirdpartysdk_ios.git"}
 
   s.ios.deployment_target = '10.0'
   s.ios.vendored_frameworks = 'razer_thirdpartysdk_ios/RazerAUTHSDK.framework'
