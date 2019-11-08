@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'mobilekit'
+  s.name             = 'RazerAUTHSDK'
   s.version          = '1.0.0'
   s.swift_version    = '5.1'
   s.summary          = 'A short description of Razer Auth SDK.'
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/arun/mobilekit'
+  s.homepage         = 'https://github.com/razerofficial/razer_thirdpartysdk_ios'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'umang' => 'umang.davessar@razer.com' }
   s.source           = { :git => "https://github.com/razerofficial/razer_thirdpartysdk_ios", :tag => '1.0.0'}
