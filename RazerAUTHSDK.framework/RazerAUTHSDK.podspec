@@ -19,7 +19,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/razerofficial/razer_thirdpartysdk_ios'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'umang' => 'umang.davessar@razer.com' }
-  s.source           = { :git => "https://github.com/razerofficial/razer_thirdpartysdk_ios", :tag => '1.0.0'}
+  s.source           = { :git => "https://github.com/razerofficial/razer_thirdpartysdk_ios"}
 
   s.ios.deployment_target = '10.0'
   s.ios.vendored_frameworks = 'razer_thirdpartysdk_ios/RazerAUTHSDK.framework'
