@@ -22,19 +22,19 @@
 		</data>
 		<key>Main.storyboardc/WebViewController.nib/objects-13.0+.nib</key>
 		<data>
-		PVL6BbpQGSxHxr7nZIzGN5rTAF8=
+		1Q2P/SjoxwOzIESs+WTPXS1jXWg=
 		</data>
 		<key>Main.storyboardc/WebViewController.nib/runtime.nib</key>
 		<data>
-		syyomqDMGLj+DUmhj5P5xecxYDA=
+		tvIJLLNRlQ3tA59T3ePbu5I5rTo=
 		</data>
 		<key>Main.storyboardc/yMk-r8-AGA-view-BFV-TR-ge2.nib/objects-13.0+.nib</key>
 		<data>
-		Gow4r8OCRdChHOgyS5YkPknWuJs=
+		0X1l4XLhtb5L32jIPhjeg2LLg9A=
 		</data>
 		<key>Main.storyboardc/yMk-r8-AGA-view-BFV-TR-ge2.nib/runtime.nib</key>
 		<data>
-		a3kr7OOhSq2cN3aTpx6py0vOuDQ=
+		rcXFs+k94hiTDNwIcVhaXluw+BE=
 		</data>
 		<key>Modules/RazerAUTHSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/RazerAUTHSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		VovtGjBFjeeED2GNgplfcEB4tm8=
+		tpYtB2OpZlIBzEzgt7IiX27n66M=
 		</data>
 		<key>Modules/RazerAUTHSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/RazerAUTHSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		rXrRqCiFHYlpK9/Ls/qvZ5jzXs8=
+		pWlBjb5Xkwm2C4uq69+0Bh561Ic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,44 +96,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PVL6BbpQGSxHxr7nZIzGN5rTAF8=
+			1Q2P/SjoxwOzIESs+WTPXS1jXWg=
 			</data>
 			<key>hash2</key>
 			<data>
-			NHL+YG2gB2pHsHmI5xe9QPB6J5SiSeiq8aRyNF8ipbY=
+			3CgQnj+9dyuXblgGcVewZNYuV6MlMWm9zaqitj5bbqA=
 			</data>
 		</dict>
 		<key>Main.storyboardc/WebViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			syyomqDMGLj+DUmhj5P5xecxYDA=
+			tvIJLLNRlQ3tA59T3ePbu5I5rTo=
 			</data>
 			<key>hash2</key>
 			<data>
-			S2BvSf31mZ2xKxEqPA/dllEPxtijfutxeitz5MyJSVk=
+			KJ2Qc0o7iUTq07QHg2GeQPXRcgHZhbigeyrNOnKUpA4=
 			</data>
 		</dict>
 		<key>Main.storyboardc/yMk-r8-AGA-view-BFV-TR-ge2.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gow4r8OCRdChHOgyS5YkPknWuJs=
+			0X1l4XLhtb5L32jIPhjeg2LLg9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			s7KRM4XtHLf5ebpkM3nzuxX9nd1bWwnBLD44xJ4hBW0=
+			XOrwoZqbOiMVx2VeZjndq3mDrgyBjH7zcaJBXsIRa2E=
 			</data>
 		</dict>
 		<key>Main.storyboardc/yMk-r8-AGA-view-BFV-TR-ge2.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a3kr7OOhSq2cN3aTpx6py0vOuDQ=
+			rcXFs+k94hiTDNwIcVhaXluw+BE=
 			</data>
 			<key>hash2</key>
 			<data>
-			y8DyWTLC8Qmv1lJ5dj02Ge689catanl/3bT/J2QUMvs=
+			sd8LZiO2SIqNx1e8ewLRBCWgkCeDmP6BePyrkPqgGiE=
 			</data>
 		</dict>
 		<key>Modules/RazerAUTHSDK.swiftmodule/arm.swiftdoc</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VovtGjBFjeeED2GNgplfcEB4tm8=
+			tpYtB2OpZlIBzEzgt7IiX27n66M=
 			</data>
 			<key>hash2</key>
 			<data>
-			eT4LXoNuKunTPyjXyX8JQOz5ZuL4kcpOCD0p4VBOxbM=
+			3pfG6ukhVX+ivKxryKBAX7AD7lTbxohJepfh6W2tj2s=
 			</data>
 		</dict>
 		<key>Modules/RazerAUTHSDK.swiftmodule/arm64.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rXrRqCiFHYlpK9/Ls/qvZ5jzXs8=
+			pWlBjb5Xkwm2C4uq69+0Bh561Ic=
 			</data>
 			<key>hash2</key>
 			<data>
-			nhDI9O/LMn2QH19+TJXuRTpfXtNpbcDqaHUG1uZurgk=
+			KmpcHrzjjLv0FR/vq0e7O9WcrT8qa4jEY/ORWeOEkwk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
